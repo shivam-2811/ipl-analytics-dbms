@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+psycopg2-binary
+streamlit-autorefresh==1.0.1
+plotly==5.20.0
